@@ -1,5 +1,6 @@
 ## GPT-3 fine tuned with California 2023 driving manual  
-* Using gradio interface  
+* Gradio interface  
+* HTTP server interface    
 * Using OpenAI's API
 * Using GPT-3's Davinci engine
 * Using LlamaIndex and LangChain for LLM data augmentation
